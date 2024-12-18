@@ -1,2 +1,6 @@
-# git-command
-git version control how to use commands!
+# git-commands
+
+# Git version control how to use commands!
+
+
+----Git is a developer's tool-----
